@@ -1,0 +1,5 @@
+USE bdtienda;
+
+
+ALTER TABLE ventas MODIFY id INT AUTO_INCREMENT;
+
